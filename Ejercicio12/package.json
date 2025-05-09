@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio12",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio12": "tsc ejercicio12.ts && node ejercicio12.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "typescript": "^5.8.3"
+  }
+}

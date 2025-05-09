@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio6": "tsc ejercicio6.ts && node ejercicio6.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
